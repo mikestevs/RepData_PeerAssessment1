@@ -11,6 +11,8 @@ library(scales)
 library(Hmisc)
 library(lattice)
 
+knitr::opts_chunk$set(fig.width=8, fig.height=8, fig.path='Figures/',warning=FALSE, message=FALSE)
+
 ```
 
 ##Loading and preprocessing the data
